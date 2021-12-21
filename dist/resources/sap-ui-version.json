@@ -1,0 +1,32 @@
+{
+	"name": "WalkthroughTutorial",
+	"version": "1.0.0",
+	"buildTimestamp": "202112211851",
+	"scmRevision": "",
+	"libraries": [
+		{
+			"name": "sap.m",
+			"version": "1.93.0",
+			"buildTimestamp": "202112211851",
+			"scmRevision": ""
+		},
+		{
+			"name": "sap.ui.core",
+			"version": "1.93.0",
+			"buildTimestamp": "202112211851",
+			"scmRevision": ""
+		},
+		{
+			"name": "sap.ui.layout",
+			"version": "1.93.0",
+			"buildTimestamp": "202112211851",
+			"scmRevision": ""
+		},
+		{
+			"name": "sap.ui.unified",
+			"version": "1.93.0",
+			"buildTimestamp": "202112211851",
+			"scmRevision": ""
+		}
+	]
+}
